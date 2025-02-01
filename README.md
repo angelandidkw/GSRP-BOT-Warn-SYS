@@ -1,5 +1,3 @@
-Here's a polished version of your README.md with improved organization and formatting:
-
 ```markdown
 # Georgia State Roleplay Discord Bot 🤖
 
